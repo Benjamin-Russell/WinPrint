@@ -1,5 +1,5 @@
 # WinPrint
-I needed a simple way to print txt files behind the scenes for the Windows-based POS system I am building. My program produces receipts and order-slips as txt files that WinPrint sends to a physical printer. Examples were hard to come by, so I hope this will help others. I've commented the files thoroughly to outline each step involved.
+I needed a way to print txt files behind the scenes for the Windows-based POS system I am building. My program produces receipts and order-slips as txt files that WinPrint sends to a physical printer's drivers. Examples were hard to come by, so I hope this will help others. I've commented the files thoroughly to outline each step involved.
 
 Program assumptions:
 - Windows 2000+
